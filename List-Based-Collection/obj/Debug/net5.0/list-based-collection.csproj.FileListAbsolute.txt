@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\bin\Debug\net5.0\list-based-collection.exe
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\bin\Debug\net5.0\list-based-collection.deps.json
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\bin\Debug\net5.0\list-based-collection.runtimeconfig.json
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\bin\Debug\net5.0\list-based-collection.runtimeconfig.dev.json
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\bin\Debug\net5.0\list-based-collection.dll
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\bin\Debug\net5.0\ref\list-based-collection.dll
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\bin\Debug\net5.0\list-based-collection.pdb
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\obj\Debug\net5.0\list-based-collection.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\obj\Debug\net5.0\list-based-collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\obj\Debug\net5.0\list-based-collection.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\obj\Debug\net5.0\list-based-collection.AssemblyInfo.cs
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\obj\Debug\net5.0\list-based-collection.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\obj\Debug\net5.0\list-based-collection.dll
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\obj\Debug\net5.0\ref\list-based-collection.dll
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\obj\Debug\net5.0\list-based-collection.pdb
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\list-based-collection\obj\Debug\net5.0\list-based-collection.genruntimeconfig.cache
