@@ -7,19 +7,18 @@ namespace list_based_collection
     {
         static void Main(string[] args)
         {
-            LinkedList<string> myList = new LinkedList<string>();
-            myList.Append("ade");
-            myList.Append("2");
-            myList.Append("4");
-            myList.InsertAt("5", 0);
+            Queue<int> myQueue = new Queue<int>();
 
-            Console.WriteLine(myList.PrintList());
-            // Console.WriteLine(myList.Count());
-            // Console.WriteLine(myList.AtIndex(1));
+            myQueue.Enqueue(1);
+            myQueue.Enqueue(9);
+            myQueue.Enqueue(10);
 
-            // myList.Remove(2);
-            // Console.WriteLine("new count");
-            Console.WriteLine(myList.Count());
+            myQueue.printQueue();
+
+            myQueue.Deque();
+            
+            Console.WriteLine("after deque");
+            myQueue.printQueue();
         }
     }
 }
