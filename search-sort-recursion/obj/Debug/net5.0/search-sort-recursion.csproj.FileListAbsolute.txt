@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\search-sort-recursion.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\search-sort-recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\search-sort-recursion.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\search-sort-recursion.AssemblyInfo.cs
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\search-sort-recursion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\bin\Debug\net5.0\search-sort-recursion.exe
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\bin\Debug\net5.0\search-sort-recursion.deps.json
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\bin\Debug\net5.0\search-sort-recursion.runtimeconfig.json
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\bin\Debug\net5.0\search-sort-recursion.runtimeconfig.dev.json
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\bin\Debug\net5.0\search-sort-recursion.dll
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\bin\Debug\net5.0\search-sort-recursion.pdb
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\search-sort-recursion.dll
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\ref\search-sort-recursion.dll
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\search-sort-recursion.pdb
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\search-sort-recursion.genruntimeconfig.cache
+C:\Users\hp\Documents\_projects\Google-Intro-Data-Structures-and-Algorithms-in-csharp\search-sort-recursion\obj\Debug\net5.0\refint\search-sort-recursion.dll
